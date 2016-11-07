@@ -1,2 +1,2 @@
-# HackerRank-CTCI
-HackerRank Cracking the Coding Interview Solutions
+# HackerRank
+HackerRank coding challenges solutions
