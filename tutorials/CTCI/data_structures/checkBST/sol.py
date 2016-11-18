@@ -7,7 +7,7 @@ class node:
 """
 def check_binary_search_tree_(root):
     return check_bounded(root)
-        
+
 def check_bounded(root, min = -float('inf'), max = float('inf')):
     if not root:
         return True
